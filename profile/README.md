@@ -13,6 +13,7 @@ Coding wars etc.
 ## Members
 
 Here are our Head of Clan and Team members
+
 ![Static Badge](https://img.shields.io/badge/69ravencoder69-blue?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2F69ravencoder69) Vice-President
 
 ![Static Badge](https://img.shields.io/badge/Aaroecode-yellow?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FAaroecode) Secretary
