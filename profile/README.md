@@ -5,23 +5,35 @@ of Noida International University.
 
 ## Our Goal
 
-Our goal is to provide technical services for all the events being organized at or is part of 
+Our primary goal is to provide technical services for all the events being organized at or is part of 
 Noida International University and to Organize New Events related to awaring students about
-current popular technologies through events like Quizes, Debates, Coding Comptetiton, Hackathon,
+current popular technologies and trends through events like Quizes, Debates, Coding Comptetiton, Hackathon,
 Coding wars etc.
+
+We also help our students in development of their skills and knowledge in areas
+releavent to Coding and Networking, help them improve thier high order thinking skills
+and guide them through questions and puzzles
+
+Project development is also one of our major goals to improve infrastructure of other clubs
+and to maintain the level of communication and services for our students.
+we also take up on Projects and we help others on thier projects as well
+and we also engage them in such activities as creating a new project
+
+We are always open to help our students with thier innovative ideas and make thier
+dream come true and we also support them and pursue them into such activities
+
+
 
 ## Members
 
-Here are our Head of Clan and Team members
+Here are our Head of Club and Club members
 
 
+[![Static Badge](https://img.shields.io/badge/69ravencoder69-blue?style=flat&logo=github&logoColor=white)](https://github.com/69ravencoder69) **Vice-President**
 
+[![Static Badge](https://img.shields.io/badge/Aaroecode-yellow?style=flat&logo=github&logoColor=white)](https://github.com/Aaroecode) **Secretary**
 
-[![Static Badge](https://img.shields.io/badge/69ravencoder69-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/69ravencoder69) **Vice-President**
-
-[![Static Badge](https://img.shields.io/badge/Aaroecode-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaroecode) **Secretary**
-
-[![Static Badge](https://img.shields.io/badge/shivGitprofile-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivGitprofile/Procode.git) **Member**
+[![Static Badge](https://img.shields.io/badge/shivGitprofile-yellow?style=flat&logo=github&logoColor=white)](https://github.com/shivGitprofile/Procode.git) **Member**
 
 
 ## Social
