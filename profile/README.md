@@ -43,5 +43,5 @@ Here are our Head of Club and Club members
 
 ## Social
 
-Upcoming
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/techrise-visionaries-technical-club-niu-set)
 
