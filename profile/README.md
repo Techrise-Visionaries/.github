@@ -29,11 +29,11 @@ dream come true and we also support them and pursue them into such activities
 Here are our Head of Club and Club members
 
 
-[![Static Badge](https://img.shields.io/badge/69ravencoder69-blue?style=flat&logo=github&logoColor=white)](https://github.com/69ravencoder69) **Vice-President**
+[![Static Badge](https://img.shields.io/badge/69ravencoder69-blue?style=flat&logo=github&logoColor=white)](https://github.com/69ravencoder69) << **Vice-President**
 
-[![Static Badge](https://img.shields.io/badge/Aaroecode-yellow?style=flat&logo=github&logoColor=white)](https://github.com/Aaroecode) **Secretary**
+[![Static Badge](https://img.shields.io/badge/Aaroecode-yellow?style=flat&logo=github&logoColor=white)](https://github.com/Aaroecode) << **Secretary**
 
-[![Static Badge](https://img.shields.io/badge/shivGitprofile-yellow?style=flat&logo=github&logoColor=white)](https://github.com/shivGitprofile/Procode.git) **Member**
+[![Static Badge](https://img.shields.io/badge/shivGitprofile-yellow?style=flat&logo=github&logoColor=white)](https://github.com/shivGitprofile/Procode.git) << **Member**
 
 
 ## Social
