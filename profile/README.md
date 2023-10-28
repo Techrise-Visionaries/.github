@@ -34,9 +34,13 @@ Here are our Head of Club and Club members
 
 [![Static Badge](https://img.shields.io/badge/Aaroecode-yellow?style=flat&logo=github&logoColor=white)](https://github.com/Aaroecode) << **Secretary**
 
+[![Static Badge](https://img.shields.io/badge/SandhyaD232-purple?style=flat&logo=github&logoColor=white)](https://github.com/SandhyaD232) << **Joint Secretary**
+
 [![Static Badge](https://img.shields.io/badge/Shivansh212-golden?style=flat&logo=github)](https://github.com/Shivansh212) << **Treasurer**
 
 [![Static Badge](https://img.shields.io/badge/Priyan20-red?style=flat&logo=github)](https://github.com/Priyan20) << **Event Manager**
+
+[![Static Badge](https://img.shields.io/badge/adityakumar15122-yellow?style=flat&logo=github&logoColor=white)](https://github.com/adityakumar15122) << **Member**
 
 [![Static Badge](https://img.shields.io/badge/shivGitprofile-yellow?style=flat&logo=github&logoColor=white)](https://github.com/shivGitprofile/Procode.git) << **Member**
 
