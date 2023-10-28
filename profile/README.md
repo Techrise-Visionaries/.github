@@ -28,6 +28,7 @@ dream come true and we also support them and pursue them into such activities
 
 Here are our Head of Club and Club members
 
+[![Static Badge](https://img.shields.io/badge/Ankitchauhan1412004-green?logo=github)](https://github.com/Ankitchauhan1412004)<< **President**
 
 [![Static Badge](https://img.shields.io/badge/69ravencoder69-blue?style=flat&logo=github&logoColor=white)](https://github.com/69ravencoder69) << **Vice-President**
 
