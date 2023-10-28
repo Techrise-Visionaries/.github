@@ -42,6 +42,8 @@ Here are our Head of Club and Club members
 
 [![Static Badge](https://img.shields.io/badge/adityakumar15122-yellow?style=flat&logo=github&logoColor=white)](https://github.com/adityakumar15122) << **Member**
 
+[![Static Badge](https://img.shields.io/badge/sanjaykasaudhan-yellow?style=flat&logo=github&logoColor=white)](https://github.com/sanjaykasaudhan) << **Member**
+
 [![Static Badge](https://img.shields.io/badge/shivGitprofile-yellow?style=flat&logo=github&logoColor=white)](https://github.com/shivGitprofile/Procode.git) << **Member**
 
 
