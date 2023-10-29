@@ -40,6 +40,8 @@ Here are our Head of Club and Club members
 
 [![Static Badge](https://img.shields.io/badge/Priyan20-red?style=flat&logo=github)](https://github.com/Priyan20) << **Event Manager**
 
+[![Static Badge](https://img.shields.io/badge/Twinklepandit08-yellow?style=flat&logo=github&logoColor=white)](https://github.com/Twinklepandit08) << **Member**
+
 [![Static Badge](https://img.shields.io/badge/adityakumar15122-yellow?style=flat&logo=github&logoColor=white)](https://github.com/adityakumar15122) << **Member**
 
 [![Static Badge](https://img.shields.io/badge/sanjaykasaudhan-yellow?style=flat&logo=github&logoColor=white)](https://github.com/sanjaykasaudhan) << **Member**
@@ -50,5 +52,5 @@ Here are our Head of Club and Club members
 
 ## Social
 
-[![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7szJvrDv)       [![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/techrise-visionaries-technical-club-niu-set)
+[![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7szJvrDv)       [![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/techrise-visionaries-technical-club-niu-set)   [![Static Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techrise_visionaries/)
 
