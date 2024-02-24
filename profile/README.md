@@ -40,7 +40,7 @@ Here are our Head of Club and Club members
 
 [![Static Badge](https://img.shields.io/badge/SandhyaD232-purple?style=flat&logo=github&logoColor=white)](https://github.com/SandhyaD232) << **Treasurer**
 
-[![Static Badge](https://img.shields.io/badge/69ravencoder69-blue?style=flat&logo=github&logoColor=white)](https://github.com/69ravencoder69) << **Manager**
+[![Static Badge](https://img.shields.io/badge/69ravencoder69-blue?style=flat&logo=github&logoColor=white)](https://github.com/69ravencoder69) << **Member**
 
 [![Static Badge](https://img.shields.io/badge/Twinklepandit08-yellow?style=flat&logo=github&logoColor=white)](https://github.com/Twinklepandit08) << **Member**
 
