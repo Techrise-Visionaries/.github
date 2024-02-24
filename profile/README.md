@@ -28,19 +28,19 @@ dream come true and we also support them and pursue them into such activities
 
 Here are our Head of Club and Club members
 
-✨ [![Static Badge](https://img.shields.io/badge/Kumari_Pragya_Prayesi-red?logo=github)](https://github.com/Kumari-Pragya-Prayesi)<< **Head of Club**
+✨ [![Static Badge](https://img.shields.io/badge/Kumari_Pragya_Prayesi-red?logo=github)](https://github.com/Kumari-Pragya-Prayesi) << **Head of Club**
 
-[![Static Badge](https://img.shields.io/badge/Ankitchauhan1412004-green?logo=github)](https://github.com/Ankitchauhan1412004)<< **President**
+[![Static Badge](https://img.shields.io/badge/Priyan20-red?style=flat&logo=github)](https://github.com/Priyan20) << **President**
 
-[![Static Badge](https://img.shields.io/badge/69ravencoder69-blue?style=flat&logo=github&logoColor=white)](https://github.com/69ravencoder69) << **Vice-President**
+[![Static Badge](https://img.shields.io/badge/Shivansh212-golden?style=flat&logo=github)](https://github.com/Shivansh212) << **Vice-President**
 
 [![Static Badge](https://img.shields.io/badge/Aaroecode-yellow?style=flat&logo=github&logoColor=white)](https://github.com/Aaroecode) << **Secretary**
 
-[![Static Badge](https://img.shields.io/badge/SandhyaD232-purple?style=flat&logo=github&logoColor=white)](https://github.com/SandhyaD232) << **Joint Secretary**
+[![Static Badge](https://img.shields.io/badge/Ankitchauhan1412004-green?logo=github)](https://github.com/Ankitchauhan1412004)<< **Joint Secretary**
 
-[![Static Badge](https://img.shields.io/badge/Shivansh212-golden?style=flat&logo=github)](https://github.com/Shivansh212) << **Treasurer**
+[![Static Badge](https://img.shields.io/badge/SandhyaD232-purple?style=flat&logo=github&logoColor=white)](https://github.com/SandhyaD232) << **Treasurer**
 
-[![Static Badge](https://img.shields.io/badge/Priyan20-red?style=flat&logo=github)](https://github.com/Priyan20) << **Event Manager**
+[![Static Badge](https://img.shields.io/badge/69ravencoder69-blue?style=flat&logo=github&logoColor=white)](https://github.com/69ravencoder69) << **Manager**
 
 [![Static Badge](https://img.shields.io/badge/Twinklepandit08-yellow?style=flat&logo=github&logoColor=white)](https://github.com/Twinklepandit08) << **Member**
 
