@@ -27,7 +27,8 @@ dream come true and we also support them and pursue them into such activities
 ## Members
 
 Here are our Head of Club and Club members
-✨ ![Static Badge](https://img.shields.io/badge/Kumari_Pragya_Prayesi-red?logo=github)(https://github.com/Kumari-Pragya-Prayesi)<< **Head of Club**>>
+
+✨ [![Static Badge](https://img.shields.io/badge/Kumari_Pragya_Prayesi-red?logo=github)(https://github.com/Kumari-Pragya-Prayesi)]<< **Head of Club**>>
 
 [![Static Badge](https://img.shields.io/badge/Ankitchauhan1412004-green?logo=github)](https://github.com/Ankitchauhan1412004)<< **President**
 
